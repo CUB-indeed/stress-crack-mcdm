@@ -33,7 +33,7 @@ The scripts reproduce every table and figure of the manuscript and the supplemen
 └── figures_v3/              figures written by MCDM_Visualization.py
 ```
 
-## Input data
+## Input data (available on request)
 
 Each workbook has eight sheets (`E1` to `E8`, one per expert). Each cell holds a triangular fuzzy number written as a string `"l,m,u"`.
 
