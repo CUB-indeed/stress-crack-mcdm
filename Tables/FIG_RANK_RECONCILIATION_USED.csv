@@ -1,0 +1,10 @@
+Feature,Rank_RC,Rank_SRPI,rank_shift
+Federated Learning,1,1,0
+Secure ESG,2,2,0
+Fraud & Greenwashing,3,3,0
+Automated ESG,4,4,0
+XAI,5,5,0
+Causal AI,6,6,0
+Predictive,7,7,0
+NLP,8,8,0
+Sentiment,9,9,0

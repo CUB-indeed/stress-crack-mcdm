@@ -1,0 +1,10 @@
+Feature,Rank_paths_len_le_1,Rank_paths_len_le_2,Rank_paths_len_le_3,Rank_paths_len_le_4,Rank_paths_len_le_5,Rank_paths_len_le_6,Rank_paths_all,Min_path_length_reproducing_final_rank,Reference_measure,Gap_direct_only,Gap_final,Indirect_path_ablation_verdict
+XAI,1,1,1,1,1,1,1,2,,,,NO_SHIFT_TO_EXPLAIN
+Predictive,2,2,2,2,2,2,2,2,,,,NO_SHIFT_TO_EXPLAIN
+NLP,3,3,3,3,3,3,3,2,,,,NO_SHIFT_TO_EXPLAIN
+Federated Learning,4,4,4,4,4,4,4,2,,,,NO_SHIFT_TO_EXPLAIN
+Causal AI,5,5,5,5,5,5,5,2,,,,NO_SHIFT_TO_EXPLAIN
+Secure ESG,6,6,6,6,6,6,6,2,,,,NO_SHIFT_TO_EXPLAIN
+Automated ESG,7,7,7,7,7,7,7,2,,,,NO_SHIFT_TO_EXPLAIN
+Fraud & Greenwashing,8,8,8,8,8,8,8,2,,,,NO_SHIFT_TO_EXPLAIN
+Sentiment,9,9,9,9,9,9,9,2,,,,NO_SHIFT_TO_EXPLAIN

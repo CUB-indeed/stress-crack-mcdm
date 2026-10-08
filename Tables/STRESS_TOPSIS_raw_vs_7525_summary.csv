@@ -1,0 +1,22 @@
+Metric,Value
+q_O_endogenous,0.8781155215184001
+q_S_endogenous,0.12188447848159989
+q_O_imposed,0.75
+q_S_imposed,0.25
+spearman_rho_raw_vs_75_25,0.9833333333333333
+kendall_tau_raw_vs_75_25,0.9444444444444445
+mean_abs_RC_diff,0.02513322563837255
+max_abs_RC_diff,0.05374032812786539
+n_features_rank_changed,2
+max_abs_rank_shift,1
+n_features_flagged_shift_ge_2,0
+top1_75_25,Federated Learning
+top1_raw_FAHP,Federated Learning
+top1_same,True
+top3_set_same,True
+threshold_rho_min,0.95
+threshold_tau_min,0.85
+threshold_max_rank_shift,1
+PRIMARY_WEIGHTING_current,75_25
+decision_rule_verdict,ALMOST_IDENTICAL
+recommended_action,"RETAIN 75/25 as primary and report that it approximately matches the endogenous FAHP allocation (q_O=0.878, q_S=0.122)."

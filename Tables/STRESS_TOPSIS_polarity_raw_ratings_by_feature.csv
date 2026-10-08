@@ -1,0 +1,28 @@
+Criterion,Feature,Method,mean_m,min_m,max_m,sd_m,mean_l,mean_u
+Cost Efficiency,NLP,NLP for ESG Reporting,6.25,4.0,8.0,1.299038105676658,5.25,7.25
+Cost Efficiency,Sentiment,Sentiment & Reputation,5.125,1.0,8.0,2.368411915187052,4.25,6.0
+Cost Efficiency,Predictive,Predictive ESG Risk,6.75,4.0,9.0,1.7853571071357126,5.75,7.5
+Cost Efficiency,Causal AI,Causal AI Risk,6.5,4.0,9.0,1.5811388300841898,5.5,7.375
+Cost Efficiency,Automated ESG,Automated ESG Scoring,6.875,4.0,9.0,1.5360257159305635,5.875,7.75
+Cost Efficiency,Fraud & Greenwashing,Fraud & Greenwashing,6.125,4.0,9.0,1.7633419974582356,5.125,7.0
+Cost Efficiency,XAI,Explainable AI (XAI),5.125,1.0,8.0,2.315032397181517,4.25,6.0
+Cost Efficiency,Federated Learning,Federated Learning,6.375,4.0,9.0,1.7275343701356567,5.375,7.25
+Cost Efficiency,Secure ESG,Secure ESG Integration,6.125,4.0,9.0,1.5360257159305635,5.125,7.0
+Implementation Complexity,NLP,NLP for ESG Reporting,5.5,4.0,8.0,1.5,4.5,6.5
+Implementation Complexity,Sentiment,Sentiment & Reputation,5.375,3.0,7.0,1.4086784586980805,4.375,6.375
+Implementation Complexity,Predictive,Predictive ESG Risk,6.125,4.0,9.0,2.027159342528357,5.125,6.875
+Implementation Complexity,Causal AI,Causal AI Risk,6.375,4.0,9.0,1.7275343701356567,5.375,7.25
+Implementation Complexity,Automated ESG,Automated ESG Scoring,5.625,4.0,9.0,1.7275343701356567,4.625,6.5
+Implementation Complexity,Fraud & Greenwashing,Fraud & Greenwashing,5.625,3.0,9.0,1.79843682124227,4.625,6.5
+Implementation Complexity,XAI,Explainable AI (XAI),5.75,4.0,8.0,1.299038105676658,4.75,6.75
+Implementation Complexity,Federated Learning,Federated Learning,5.75,3.0,9.0,1.920286436967152,4.75,6.625
+Implementation Complexity,Secure ESG,Secure ESG Integration,5.875,3.0,9.0,1.8328597873268975,4.875,6.75
+Data Dependency,NLP,NLP for ESG Reporting,5.25,1.0,9.0,2.277608394786075,4.375,6.0
+Data Dependency,Sentiment,Sentiment & Reputation,5.25,3.0,8.0,1.479019945774904,4.25,6.25
+Data Dependency,Predictive,Predictive ESG Risk,6.375,4.0,9.0,1.996089927833914,5.5,7.125
+Data Dependency,Causal AI,Causal AI Risk,5.875,4.0,9.0,1.7633419974582356,4.875,6.75
+Data Dependency,Automated ESG,Automated ESG Scoring,5.625,1.0,9.0,2.2878756522153907,4.75,6.375
+Data Dependency,Fraud & Greenwashing,Fraud & Greenwashing,5.375,3.0,9.0,1.7275343701356567,4.375,6.25
+Data Dependency,XAI,Explainable AI (XAI),5.375,4.0,9.0,1.4086784586980805,4.375,6.25
+Data Dependency,Federated Learning,Federated Learning,6.625,5.0,9.0,1.4086784586980805,5.625,7.5
+Data Dependency,Secure ESG,Secure ESG Integration,6.875,5.0,9.0,1.2686114456365274,5.875,7.75

@@ -1,0 +1,56 @@
+test,kappa_threshold,criterion,kappa_bar,ESI,criterion_ever_flagged_cracked,n_crack_events_total_at_this_threshold,n_crackfree_transitions_Bstar
+crack_threshold_sensitivity,0.1,Effectiveness,0.32689093071140496,0.7211623954066779,True,43,0
+crack_threshold_sensitivity,0.1,Regulatory Compliance,0.7173367531419665,0.4880503251483871,True,43,0
+crack_threshold_sensitivity,0.1,Data Privacy,0.6124296317889735,0.5420323289625395,True,43,0
+crack_threshold_sensitivity,0.1,Integration,0.1843404458123623,0.8316526229727077,True,43,0
+crack_threshold_sensitivity,0.1,Scalability,0.7648534776454947,0.4654021177928356,True,43,0
+crack_threshold_sensitivity,0.1,Stakeholder Acceptance,0.3649712056282559,0.6942166401221952,True,43,0
+crack_threshold_sensitivity,0.1,Innovation Potential,0.6108834192447152,0.5428710744212456,True,43,0
+crack_threshold_sensitivity,0.1,Time-to-Insight,0.8021101824239136,0.44838179773298176,True,43,0
+crack_threshold_sensitivity,0.1,Cost Efficiency,0.7296015560583173,0.48210104206617865,True,43,0
+crack_threshold_sensitivity,0.1,Implementation Complexity,1.1443475276530268,0.31843161784882656,True,43,0
+crack_threshold_sensitivity,0.1,Data Dependency,1.1136610539526401,0.3283546338367796,True,43,0
+crack_threshold_sensitivity,0.2,Effectiveness,0.32689093071140496,0.7211623954066779,True,41,0
+crack_threshold_sensitivity,0.2,Regulatory Compliance,0.7173367531419665,0.4880503251483871,True,41,0
+crack_threshold_sensitivity,0.2,Data Privacy,0.6124296317889735,0.5420323289625395,True,41,0
+crack_threshold_sensitivity,0.2,Integration,0.1843404458123623,0.8316526229727077,True,41,0
+crack_threshold_sensitivity,0.2,Scalability,0.7648534776454947,0.4654021177928356,True,41,0
+crack_threshold_sensitivity,0.2,Stakeholder Acceptance,0.3649712056282559,0.6942166401221952,True,41,0
+crack_threshold_sensitivity,0.2,Innovation Potential,0.6108834192447152,0.5428710744212456,True,41,0
+crack_threshold_sensitivity,0.2,Time-to-Insight,0.8021101824239136,0.44838179773298176,True,41,0
+crack_threshold_sensitivity,0.2,Cost Efficiency,0.7296015560583173,0.48210104206617865,True,41,0
+crack_threshold_sensitivity,0.2,Implementation Complexity,1.1443475276530268,0.31843161784882656,True,41,0
+crack_threshold_sensitivity,0.2,Data Dependency,1.1136610539526401,0.3283546338367796,True,41,0
+crack_threshold_sensitivity,0.3,Effectiveness,0.32689093071140496,0.7211623954066779,True,37,0
+crack_threshold_sensitivity,0.3,Regulatory Compliance,0.7173367531419665,0.4880503251483871,True,37,0
+crack_threshold_sensitivity,0.3,Data Privacy,0.6124296317889735,0.5420323289625395,True,37,0
+crack_threshold_sensitivity,0.3,Integration,0.1843404458123623,0.8316526229727077,False,37,0
+crack_threshold_sensitivity,0.3,Scalability,0.7648534776454947,0.4654021177928356,True,37,0
+crack_threshold_sensitivity,0.3,Stakeholder Acceptance,0.3649712056282559,0.6942166401221952,True,37,0
+crack_threshold_sensitivity,0.3,Innovation Potential,0.6108834192447152,0.5428710744212456,True,37,0
+crack_threshold_sensitivity,0.3,Time-to-Insight,0.8021101824239136,0.44838179773298176,True,37,0
+crack_threshold_sensitivity,0.3,Cost Efficiency,0.7296015560583173,0.48210104206617865,True,37,0
+crack_threshold_sensitivity,0.3,Implementation Complexity,1.1443475276530268,0.31843161784882656,True,37,0
+crack_threshold_sensitivity,0.3,Data Dependency,1.1136610539526401,0.3283546338367796,True,37,0
+crack_threshold_sensitivity,0.4,Effectiveness,0.32689093071140496,0.7211623954066779,True,35,0
+crack_threshold_sensitivity,0.4,Regulatory Compliance,0.7173367531419665,0.4880503251483871,True,35,0
+crack_threshold_sensitivity,0.4,Data Privacy,0.6124296317889735,0.5420323289625395,True,35,0
+crack_threshold_sensitivity,0.4,Integration,0.1843404458123623,0.8316526229727077,False,35,0
+crack_threshold_sensitivity,0.4,Scalability,0.7648534776454947,0.4654021177928356,True,35,0
+crack_threshold_sensitivity,0.4,Stakeholder Acceptance,0.3649712056282559,0.6942166401221952,True,35,0
+crack_threshold_sensitivity,0.4,Innovation Potential,0.6108834192447152,0.5428710744212456,True,35,0
+crack_threshold_sensitivity,0.4,Time-to-Insight,0.8021101824239136,0.44838179773298176,True,35,0
+crack_threshold_sensitivity,0.4,Cost Efficiency,0.7296015560583173,0.48210104206617865,True,35,0
+crack_threshold_sensitivity,0.4,Implementation Complexity,1.1443475276530268,0.31843161784882656,True,35,0
+crack_threshold_sensitivity,0.4,Data Dependency,1.1136610539526401,0.3283546338367796,True,35,0
+crack_threshold_sensitivity,0.5,Effectiveness,0.32689093071140496,0.7211623954066779,False,32,0
+crack_threshold_sensitivity,0.5,Regulatory Compliance,0.7173367531419665,0.4880503251483871,True,32,0
+crack_threshold_sensitivity,0.5,Data Privacy,0.6124296317889735,0.5420323289625395,True,32,0
+crack_threshold_sensitivity,0.5,Integration,0.1843404458123623,0.8316526229727077,False,32,0
+crack_threshold_sensitivity,0.5,Scalability,0.7648534776454947,0.4654021177928356,True,32,0
+crack_threshold_sensitivity,0.5,Stakeholder Acceptance,0.3649712056282559,0.6942166401221952,True,32,0
+crack_threshold_sensitivity,0.5,Innovation Potential,0.6108834192447152,0.5428710744212456,True,32,0
+crack_threshold_sensitivity,0.5,Time-to-Insight,0.8021101824239136,0.44838179773298176,True,32,0
+crack_threshold_sensitivity,0.5,Cost Efficiency,0.7296015560583173,0.48210104206617865,True,32,0
+crack_threshold_sensitivity,0.5,Implementation Complexity,1.1443475276530268,0.31843161784882656,True,32,0
+crack_threshold_sensitivity,0.5,Data Dependency,1.1136610539526401,0.3283546338367796,True,32,0

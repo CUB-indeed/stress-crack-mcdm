@@ -1,0 +1,10 @@
+Feature,TOPSIS_rank,SRPI_abs_rank,SRPI_minmax_rank,rank_shift_abs,rank_shift_minmax
+Federated Learning,1,1,1,0,0
+Secure ESG,2,2,2,0,0
+Fraud & Greenwashing,3,3,5,0,-2
+Automated ESG,4,4,3,0,1
+XAI,5,5,4,0,1
+Causal AI,6,6,6,0,0
+Predictive,7,7,7,0,0
+NLP,8,8,8,0,0
+Sentiment,9,9,9,0,0

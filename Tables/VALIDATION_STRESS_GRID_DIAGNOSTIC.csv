@@ -1,0 +1,133 @@
+test,step_size,stress_range,n_grid_points,criterion,kappa_bar,ESI,n_crack_events_total,n_crackfree_transitions_Bstar
+stress_grid_range_sensitivity,0.05,0.25,11,Effectiveness,0.3336557748672142,0.7163003083632892,95,0
+stress_grid_range_sensitivity,0.05,0.25,11,Regulatory Compliance,0.7100916392464063,0.4915991456214996,95,0
+stress_grid_range_sensitivity,0.05,0.25,11,Data Privacy,0.6056264851844557,0.5457324262420864,95,0
+stress_grid_range_sensitivity,0.05,0.25,11,Integration,0.19287317491329592,0.8245865457679771,95,0
+stress_grid_range_sensitivity,0.05,0.25,11,Scalability,0.7722115578116302,0.46199021960453623,95,0
+stress_grid_range_sensitivity,0.05,0.25,11,Stakeholder Acceptance,0.37344975049849705,0.688355574951802,95,0
+stress_grid_range_sensitivity,0.05,0.25,11,Innovation Potential,0.6191085648173029,0.5384241939967804,95,0
+stress_grid_range_sensitivity,0.05,0.25,11,Time-to-Insight,0.80953495434209,0.445064993646645,95,0
+stress_grid_range_sensitivity,0.05,0.25,11,Cost Efficiency,0.7338804901072571,0.4800425706746745,95,0
+stress_grid_range_sensitivity,0.05,0.25,11,Implementation Complexity,1.1482198589804415,0.3172009294738078,95,0
+stress_grid_range_sensitivity,0.05,0.25,11,Data Dependency,1.1197832457932275,0.32635052480636434,95,0
+stress_grid_range_sensitivity,0.05,0.5,21,Effectiveness,0.32689093071140496,0.7211623954066779,186,0
+stress_grid_range_sensitivity,0.05,0.5,21,Regulatory Compliance,0.7173367531419667,0.4880503251483871,186,0
+stress_grid_range_sensitivity,0.05,0.5,21,Data Privacy,0.6124296317889736,0.5420323289625394,186,0
+stress_grid_range_sensitivity,0.05,0.5,21,Integration,0.18434044581236228,0.8316526229727078,186,0
+stress_grid_range_sensitivity,0.05,0.5,21,Scalability,0.7648534776454946,0.46540211779283563,186,0
+stress_grid_range_sensitivity,0.05,0.5,21,Stakeholder Acceptance,0.3649712056282559,0.6942166401221952,186,0
+stress_grid_range_sensitivity,0.05,0.5,21,Innovation Potential,0.6108834192447152,0.5428710744212456,186,0
+stress_grid_range_sensitivity,0.05,0.5,21,Time-to-Insight,0.8021101824239137,0.4483817977329817,186,0
+stress_grid_range_sensitivity,0.05,0.5,21,Cost Efficiency,0.7296015560583173,0.48210104206617865,186,0
+stress_grid_range_sensitivity,0.05,0.5,21,Implementation Complexity,1.144347527653027,0.3184316178488265,186,0
+stress_grid_range_sensitivity,0.05,0.5,21,Data Dependency,1.1136610539526404,0.3283546338367795,186,0
+stress_grid_range_sensitivity,0.05,0.75,31,Effectiveness,0.31638987432568977,0.7287752640081453,279,0
+stress_grid_range_sensitivity,0.05,0.75,31,Regulatory Compliance,0.7287261164723252,0.48252327719655874,279,0
+stress_grid_range_sensitivity,0.05,0.75,31,Data Privacy,0.6231357109549897,0.5362602412849563,279,0
+stress_grid_range_sensitivity,0.05,0.75,31,Integration,0.18203719860472786,0.8335703321857076,279,0
+stress_grid_range_sensitivity,0.05,0.75,31,Scalability,0.7532619175407326,0.47082824228189024,279,0
+stress_grid_range_sensitivity,0.05,0.75,31,Stakeholder Acceptance,0.35162167087304425,0.703546243668513,279,0
+stress_grid_range_sensitivity,0.05,0.75,31,Innovation Potential,0.5979897066746552,0.5499160181569563,279,0
+stress_grid_range_sensitivity,0.05,0.75,31,Time-to-Insight,0.7904683128988881,0.45363230367079677,279,0
+stress_grid_range_sensitivity,0.05,0.75,31,Cost Efficiency,0.7228251997281673,0.4853790243589213,279,0
+stress_grid_range_sensitivity,0.05,0.75,31,Implementation Complexity,1.138396510696443,0.3203322595725177,279,0
+stress_grid_range_sensitivity,0.05,0.75,31,Data Dependency,1.1042015391860147,0.33147544676076135,279,0
+stress_grid_range_sensitivity,0.05,1.0,41,Effectiveness,0.3153849234194374,0.7295080154981328,366,0
+stress_grid_range_sensitivity,0.05,1.0,41,Regulatory Compliance,0.743409027063008,0.47549019050465235,366,0
+stress_grid_range_sensitivity,0.05,1.0,41,Data Privacy,0.636965523523096,0.5288949106245274,366,0
+stress_grid_range_sensitivity,0.05,1.0,41,Integration,0.1963309578084056,0.821740228324311,366,0
+stress_grid_range_sensitivity,0.05,1.0,41,Scalability,0.7382735446796282,0.47793834284259956,366,0
+stress_grid_range_sensitivity,0.05,1.0,41,Stakeholder Acceptance,0.34937757554576737,0.7051268413490681,366,0
+stress_grid_range_sensitivity,0.05,1.0,41,Innovation Potential,0.5814350289896324,0.5590954724041153,366,0
+stress_grid_range_sensitivity,0.05,1.0,41,Time-to-Insight,0.7755034887894487,0.4604718801946027,366,0
+stress_grid_range_sensitivity,0.05,1.0,41,Cost Efficiency,0.7139775171897453,0.4896925581268405,366,0
+stress_grid_range_sensitivity,0.05,1.0,41,Implementation Complexity,1.1309524309455037,0.32272573602162913,366,0
+stress_grid_range_sensitivity,0.05,1.0,41,Data Dependency,1.0923284485739921,0.3354345416123195,366,0
+stress_grid_range_sensitivity,0.1,0.25,7,Effectiveness,0.3340298110108364,0.7160324362583211,57,0
+stress_grid_range_sensitivity,0.1,0.25,7,Regulatory Compliance,0.7096934471844399,0.49179493547735176,57,0
+stress_grid_range_sensitivity,0.1,0.25,7,Data Privacy,0.6052527508495317,0.5459364233054333,57,0
+stress_grid_range_sensitivity,0.1,0.25,7,Integration,0.193343864008421,0.8241985132014101,57,0
+stress_grid_range_sensitivity,0.1,0.25,7,Scalability,0.7726155197914605,0.4618036308106892,57,0
+stress_grid_range_sensitivity,0.1,0.25,7,Stakeholder Acceptance,0.3739153742073083,0.6880351348840479,57,0
+stress_grid_range_sensitivity,0.1,0.25,7,Innovation Potential,0.6195612647532759,0.5381805045618894,57,0
+stress_grid_range_sensitivity,0.1,0.25,7,Time-to-Insight,0.8099436235366161,0.4448831464543833,57,0
+stress_grid_range_sensitivity,0.1,0.25,7,Cost Efficiency,0.7341148886375662,0.4799300625880027,57,0
+stress_grid_range_sensitivity,0.1,0.25,7,Implementation Complexity,1.1484352257872803,0.31713262227831607,57,0
+stress_grid_range_sensitivity,0.1,0.25,7,Data Dependency,1.1201225337223237,0.32623981679465136,57,0
+stress_grid_range_sensitivity,0.1,0.5,11,Effectiveness,0.32689093071140496,0.7211623954066779,93,0
+stress_grid_range_sensitivity,0.1,0.5,11,Regulatory Compliance,0.7173367531419664,0.48805032514838714,93,0
+stress_grid_range_sensitivity,0.1,0.5,11,Data Privacy,0.6124296317889735,0.5420323289625395,93,0
+stress_grid_range_sensitivity,0.1,0.5,11,Integration,0.1843404458123623,0.8316526229727077,93,0
+stress_grid_range_sensitivity,0.1,0.5,11,Scalability,0.7648534776454947,0.4654021177928356,93,0
+stress_grid_range_sensitivity,0.1,0.5,11,Stakeholder Acceptance,0.3649712056282559,0.6942166401221952,93,0
+stress_grid_range_sensitivity,0.1,0.5,11,Innovation Potential,0.6108834192447152,0.5428710744212456,93,0
+stress_grid_range_sensitivity,0.1,0.5,11,Time-to-Insight,0.8021101824239137,0.4483817977329817,93,0
+stress_grid_range_sensitivity,0.1,0.5,11,Cost Efficiency,0.7296015560583173,0.48210104206617865,93,0
+stress_grid_range_sensitivity,0.1,0.5,11,Implementation Complexity,1.144347527653027,0.3184316178488265,93,0
+stress_grid_range_sensitivity,0.1,0.5,11,Data Dependency,1.1136610539526404,0.3283546338367795,93,0
+stress_grid_range_sensitivity,0.1,0.75,17,Effectiveness,0.3176092566633934,0.7278871499084263,149,0
+stress_grid_range_sensitivity,0.1,0.75,17,Regulatory Compliance,0.7274121396224679,0.48315771834151877,149,0
+stress_grid_range_sensitivity,0.1,0.75,17,Data Privacy,0.6219012339687344,0.5369226509921134,149,0
+stress_grid_range_sensitivity,0.1,0.75,17,Integration,0.18289095553468526,0.8328589694466406,149,0
+stress_grid_range_sensitivity,0.1,0.75,17,Scalability,0.7545977558000999,0.4701997118032555,149,0
+stress_grid_range_sensitivity,0.1,0.75,17,Stakeholder Acceptance,0.3531605347404393,0.7024644143825797,149,0
+stress_grid_range_sensitivity,0.1,0.75,17,Innovation Potential,0.5994793977845605,0.5490974230318378,149,0
+stress_grid_range_sensitivity,0.1,0.75,17,Time-to-Insight,0.7918132289370357,0.45302261639116853,149,0
+stress_grid_range_sensitivity,0.1,0.75,17,Cost Efficiency,0.7236040548257264,0.48500113161249997,149,0
+stress_grid_range_sensitivity,0.1,0.75,17,Implementation Complexity,1.1390912325167573,0.32010979504646986,149,0
+stress_grid_range_sensitivity,0.1,0.75,17,Data Dependency,1.1053026288223766,0.33111066344804246,149,0
+stress_grid_range_sensitivity,0.1,1.0,21,Effectiveness,0.31508476192520374,0.7297270185806222,182,0
+stress_grid_range_sensitivity,0.1,1.0,21,Regulatory Compliance,0.7434090270630079,0.4754901905046524,182,0
+stress_grid_range_sensitivity,0.1,1.0,21,Data Privacy,0.636965523523096,0.5288949106245274,182,0
+stress_grid_range_sensitivity,0.1,1.0,21,Integration,0.19582283856490076,0.8221578764460227,182,0
+stress_grid_range_sensitivity,0.1,1.0,21,Scalability,0.7382735446796282,0.47793834284259956,182,0
+stress_grid_range_sensitivity,0.1,1.0,21,Stakeholder Acceptance,0.34904183590814214,0.7053636201250485,182,0
+stress_grid_range_sensitivity,0.1,1.0,21,Innovation Potential,0.5814350289896325,0.5590954724041152,182,0
+stress_grid_range_sensitivity,0.1,1.0,21,Time-to-Insight,0.7755034887894487,0.4604718801946027,182,0
+stress_grid_range_sensitivity,0.1,1.0,21,Cost Efficiency,0.7139775171897454,0.4896925581268404,182,0
+stress_grid_range_sensitivity,0.1,1.0,21,Implementation Complexity,1.130952430945504,0.3227257360216291,182,0
+stress_grid_range_sensitivity,0.1,1.0,21,Data Dependency,1.0923284485739924,0.33543454161231945,182,0
+stress_grid_range_sensitivity,0.25,0.25,3,Effectiveness,0.3336557748672142,0.7163003083632892,19,0
+stress_grid_range_sensitivity,0.25,0.25,3,Regulatory Compliance,0.7100916392464063,0.4915991456214996,19,0
+stress_grid_range_sensitivity,0.25,0.25,3,Data Privacy,0.6056264851844557,0.5457324262420864,19,0
+stress_grid_range_sensitivity,0.25,0.25,3,Integration,0.19287317491329592,0.8245865457679771,19,0
+stress_grid_range_sensitivity,0.25,0.25,3,Scalability,0.7722115578116302,0.46199021960453623,19,0
+stress_grid_range_sensitivity,0.25,0.25,3,Stakeholder Acceptance,0.37344975049849705,0.688355574951802,19,0
+stress_grid_range_sensitivity,0.25,0.25,3,Innovation Potential,0.6191085648173029,0.5384241939967804,19,0
+stress_grid_range_sensitivity,0.25,0.25,3,Time-to-Insight,0.80953495434209,0.445064993646645,19,0
+stress_grid_range_sensitivity,0.25,0.25,3,Cost Efficiency,0.7338804901072571,0.4800425706746745,19,0
+stress_grid_range_sensitivity,0.25,0.25,3,Implementation Complexity,1.1482198589804415,0.3172009294738078,19,0
+stress_grid_range_sensitivity,0.25,0.25,3,Data Dependency,1.1197832457932275,0.32635052480636434,19,0
+stress_grid_range_sensitivity,0.25,0.5,5,Effectiveness,0.32689093071140496,0.7211623954066779,37,0
+stress_grid_range_sensitivity,0.25,0.5,5,Regulatory Compliance,0.7173367531419665,0.4880503251483871,37,0
+stress_grid_range_sensitivity,0.25,0.5,5,Data Privacy,0.6124296317889735,0.5420323289625395,37,0
+stress_grid_range_sensitivity,0.25,0.5,5,Integration,0.1843404458123623,0.8316526229727077,37,0
+stress_grid_range_sensitivity,0.25,0.5,5,Scalability,0.7648534776454947,0.4654021177928356,37,0
+stress_grid_range_sensitivity,0.25,0.5,5,Stakeholder Acceptance,0.3649712056282559,0.6942166401221952,37,0
+stress_grid_range_sensitivity,0.25,0.5,5,Innovation Potential,0.6108834192447152,0.5428710744212456,37,0
+stress_grid_range_sensitivity,0.25,0.5,5,Time-to-Insight,0.8021101824239136,0.44838179773298176,37,0
+stress_grid_range_sensitivity,0.25,0.5,5,Cost Efficiency,0.7296015560583173,0.48210104206617865,37,0
+stress_grid_range_sensitivity,0.25,0.5,5,Implementation Complexity,1.1443475276530268,0.31843161784882656,37,0
+stress_grid_range_sensitivity,0.25,0.5,5,Data Dependency,1.1136610539526401,0.3283546338367796,37,0
+stress_grid_range_sensitivity,0.25,0.75,7,Effectiveness,0.3163898743256898,0.7287752640081453,56,0
+stress_grid_range_sensitivity,0.25,0.75,7,Regulatory Compliance,0.7287261164723251,0.4825232771965588,56,0
+stress_grid_range_sensitivity,0.25,0.75,7,Data Privacy,0.6231357109549894,0.5362602412849564,56,0
+stress_grid_range_sensitivity,0.25,0.75,7,Integration,0.18135796344775912,0.8341367147928482,56,0
+stress_grid_range_sensitivity,0.25,0.75,7,Scalability,0.7532619175407325,0.4708282422818903,56,0
+stress_grid_range_sensitivity,0.25,0.75,7,Stakeholder Acceptance,0.35162167087304425,0.703546243668513,56,0
+stress_grid_range_sensitivity,0.25,0.75,7,Innovation Potential,0.5979897066746552,0.5499160181569563,56,0
+stress_grid_range_sensitivity,0.25,0.75,7,Time-to-Insight,0.7904683128988882,0.4536323036707967,56,0
+stress_grid_range_sensitivity,0.25,0.75,7,Cost Efficiency,0.7228251997281673,0.4853790243589213,56,0
+stress_grid_range_sensitivity,0.25,0.75,7,Implementation Complexity,1.1383965106964429,0.32033225957251776,56,0
+stress_grid_range_sensitivity,0.25,0.75,7,Data Dependency,1.1042015391860147,0.33147544676076135,56,0
+stress_grid_range_sensitivity,0.25,1.0,9,Effectiveness,0.31538492341943747,0.7295080154981328,74,0
+stress_grid_range_sensitivity,0.25,1.0,9,Regulatory Compliance,0.743409027063008,0.47549019050465235,74,0
+stress_grid_range_sensitivity,0.25,1.0,9,Data Privacy,0.6369655235230959,0.5288949106245274,74,0
+stress_grid_range_sensitivity,0.25,1.0,9,Integration,0.19582153144067904,0.8221589511091993,74,0
+stress_grid_range_sensitivity,0.25,1.0,9,Scalability,0.7382735446796282,0.47793834284259956,74,0
+stress_grid_range_sensitivity,0.25,1.0,9,Stakeholder Acceptance,0.3493775755457673,0.7051268413490681,74,0
+stress_grid_range_sensitivity,0.25,1.0,9,Innovation Potential,0.5814350289896324,0.5590954724041153,74,0
+stress_grid_range_sensitivity,0.25,1.0,9,Time-to-Insight,0.7755034887894487,0.4604718801946027,74,0
+stress_grid_range_sensitivity,0.25,1.0,9,Cost Efficiency,0.7139775171897453,0.4896925581268405,74,0
+stress_grid_range_sensitivity,0.25,1.0,9,Implementation Complexity,1.1309524309455037,0.32272573602162913,74,0
+stress_grid_range_sensitivity,0.25,1.0,9,Data Dependency,1.0923284485739921,0.3354345416123195,74,0

@@ -1,0 +1,37 @@
+feature_i,feature_j,recorded_value,has_relationship
+NLP,Sentiment,7.416666666666667,True
+NLP,Predictive,6.5,True
+NLP,Causal AI,6.083333333333333,True
+NLP,Automated ESG,5.875,True
+NLP,Fraud & Greenwashing,5.708333333333333,True
+NLP,XAI,6.666666666666667,True
+NLP,Federated Learning,6.666666666666667,True
+NLP,Secure ESG,6.291666666666667,True
+Sentiment,Predictive,5.75,True
+Sentiment,Causal AI,5.375,True
+Sentiment,Automated ESG,4.5,True
+Sentiment,Fraud & Greenwashing,5.125,True
+Sentiment,XAI,5.708333333333333,True
+Sentiment,Federated Learning,5.541666666666667,True
+Sentiment,Secure ESG,5.791666666666667,True
+Predictive,Causal AI,7.25,True
+Predictive,Automated ESG,7.083333333333333,True
+Predictive,Fraud & Greenwashing,5.75,True
+Predictive,XAI,6.583333333333333,True
+Predictive,Federated Learning,6.333333333333333,True
+Predictive,Secure ESG,6.333333333333333,True
+Causal AI,Automated ESG,6.708333333333333,True
+Causal AI,Fraud & Greenwashing,6.083333333333333,True
+Causal AI,XAI,7.083333333333333,True
+Causal AI,Federated Learning,6.083333333333333,True
+Causal AI,Secure ESG,5.833333333333333,True
+Automated ESG,Fraud & Greenwashing,6.25,True
+Automated ESG,XAI,6.708333333333333,True
+Automated ESG,Federated Learning,6.458333333333333,True
+Automated ESG,Secure ESG,6.208333333333333,True
+Fraud & Greenwashing,XAI,6.708333333333333,True
+Fraud & Greenwashing,Federated Learning,5.958333333333333,True
+Fraud & Greenwashing,Secure ESG,6.208333333333333,True
+XAI,Federated Learning,6.833333333333333,True
+XAI,Secure ESG,7.083333333333333,True
+Federated Learning,Secure ESG,6.666666666666667,True

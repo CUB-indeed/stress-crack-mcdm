@@ -1,0 +1,24 @@
+parameter,value,used_in
+PRIMARY_WEIGHTING,75_25,all tests (single weighting entry point)
+REVERSE_CODED_CRITERIA,(none),all TOPSIS-based tests
+POLARITY_VERIFIED_AGAINST_QUESTIONNAIRE,True,item 2.5
+BENEFIT_SHARE/COST_SHARE (imposed),0.75/0.25,Eq. (17)
+ALLOCATION_SCENARIOS,0.5/0.5; 0.6/0.4; 0.7/0.3; 0.75/0.25; 0.8/0.2; raw_FAHP,Test 8
+WEIGHT_PERTURBATION_PCT,0.05,Test 1
+GAMMA_SWEEP_VALUES,"[0.0, 0.5, 1.0, 1.5, 2.0]",Test 2
+GAMMA_AMPLIFICATION (reference),1.0,Test 2 / DEMATEL
+EXPECTED_K (experts),8,Test 3
+AHP STRESS_SET,"[-0.5, -0.25, 0.0, 0.25, 0.5]","AHP / Tests 5-7, 2.3"
+KAPPA_THRESHOLD (reference),0.3,AHP / Test 6
+KAPPA_THRESHOLD_GRID,"(0.1, 0.2, 0.3, 0.4, 0.5)",Test 6
+CR_THRESHOLD,0.1,AHP ESI_CR / Test 9 / item 2.3
+STRESS_STEP_GRID,"(0.05, 0.1, 0.25)",Test 7
+STRESS_RANGE_GRID,"(0.25, 0.5, 0.75, 1.0)",Test 7
+N_PERMUTATIONS / PERMUTATION_SEED,200 / 42,Test 5
+MC_N_DRAWS / MC_SIGMA / MC_SEED,2000 / 0.15 / 123,Test 9 / item 2.3
+ESI_MC_STRONG_RHO / primary measure,-0.7 / CV,item 2.3 decision rule
+LAMBDA_AMP / MU_DISC,1.0 / 1.0,SRPI reference
+LAMBDA_MU_GRID,"(0, 0.25, 0.5, 1, 1.5, 2)",Test 11
+VULNERABILITY_MODE (reference),absolute,SRPI reference
+DEMATEL STRESS_SET / MODE,"[-50, -25, 0, 25, 50] / cell_sym",DEMATEL
+DEMATEL TAU_C,0.3,DEMATEL crack

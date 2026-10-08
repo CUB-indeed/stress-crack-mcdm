@@ -1,0 +1,23 @@
+Metric,Value
+primary_weighting_used,75_25
+TOPSIS_rho_raw_vs_75_25,0.9833333333333333
+TOPSIS_tau_raw_vs_75_25,0.9444444444444445
+SRPI_abs_rho_raw_vs_75_25,0.9666666666666667
+SRPI_abs_tau_raw_vs_75_25,0.8888888888888888
+SRPI_minmax_rho_raw_vs_75_25,0.9833333333333333
+SRPI_minmax_tau_raw_vs_75_25,0.9444444444444445
+TOPSIS_vs_SRPI_rho_under_75_25,1.0
+TOPSIS_vs_SRPI_tau_under_75_25,1.0
+TOPSIS_vs_SRPI_rho_under_raw,0.9833333333333333
+TOPSIS_vs_SRPI_tau_under_raw,0.9444444444444445
+SRPI_max_abs_rank_shift,1
+SRPI_n_features_flagged_shift_ge_2,0
+SRPI_top1_75_25,Federated Learning
+SRPI_top1_raw_FAHP,Federated Learning
+TOPSIS_top1_75_25,Federated Learning
+TOPSIS_top1_raw_FAHP,Federated Learning
+threshold_rho_min,0.95
+threshold_tau_min,0.85
+threshold_max_rank_shift,1
+verdict,SRPI_RANKING_ROBUST_TO_WEIGHTING
+note,SRPI ranking is preserved under raw FAHP: report that the weighting choice does not drive SRPI.

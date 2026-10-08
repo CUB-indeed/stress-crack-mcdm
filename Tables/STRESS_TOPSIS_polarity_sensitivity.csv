@@ -1,0 +1,37 @@
+Scenario,Reverse_coded,Feature,Method,RC,Rank,RC_primary,Rank_primary,RC_diff_vs_primary,Rank_shift_primary_minus_scenario,Flag_shift_ge_threshold
+configured_primary,(none),NLP,NLP for ESG Reporting,0.36242016617828227,8,0.36242016617828227,8,0.0,0,False
+configured_primary,(none),Sentiment,Sentiment & Reputation,0.043602570920166554,9,0.043602570920166554,9,0.0,0,False
+configured_primary,(none),Predictive,Predictive ESG Risk,0.39126784710091467,7,0.39126784710091467,7,0.0,0,False
+configured_primary,(none),Causal AI,Causal AI Risk,0.42902678015682666,6,0.42902678015682666,6,0.0,0,False
+configured_primary,(none),Automated ESG,Automated ESG Scoring,0.5747045522659696,4,0.5747045522659696,4,0.0,0,False
+configured_primary,(none),Fraud & Greenwashing,Fraud & Greenwashing,0.7266588965216585,3,0.7266588965216585,3,0.0,0,False
+configured_primary,(none),XAI,Explainable AI (XAI),0.4514078666051979,5,0.4514078666051979,5,0.0,0,False
+configured_primary,(none),Federated Learning,Federated Learning,0.8244136298260936,1,0.8244136298260936,1,0.0,0,False
+configured_primary,(none),Secure ESG,Secure ESG Integration,0.7993382567651096,2,0.7993382567651096,2,0.0,0,False
+IMP_reversed,Implementation Complexity,NLP,NLP for ESG Reporting,0.3914850502610724,6,0.36242016617828227,8,0.02906488408279012,2,True
+IMP_reversed,Implementation Complexity,Sentiment,Sentiment & Reputation,0.08448922554895096,9,0.043602570920166554,9,0.0408866546287844,0,False
+IMP_reversed,Implementation Complexity,Predictive,Predictive ESG Risk,0.37305728067839355,8,0.39126784710091467,7,-0.018210566422521113,-1,False
+IMP_reversed,Implementation Complexity,Causal AI,Causal AI Risk,0.3891971393763719,7,0.42902678015682666,6,-0.039829640780454756,-1,False
+IMP_reversed,Implementation Complexity,Automated ESG,Automated ESG Scoring,0.5946558176537484,4,0.5747045522659696,4,0.019951265387778805,0,False
+IMP_reversed,Implementation Complexity,Fraud & Greenwashing,Fraud & Greenwashing,0.7463788773904667,3,0.7266588965216585,3,0.019719980868808218,0,False
+IMP_reversed,Implementation Complexity,XAI,Explainable AI (XAI),0.4588116896740817,5,0.4514078666051979,5,0.007403823068883819,0,False
+IMP_reversed,Implementation Complexity,Federated Learning,Federated Learning,0.833372062550795,1,0.8244136298260936,1,0.008958432724701426,0,False
+IMP_reversed,Implementation Complexity,Secure ESG,Secure ESG Integration,0.7979941078165147,2,0.7993382567651096,2,-0.0013441489485949143,0,False
+DEP_reversed,Data Dependency,NLP,NLP for ESG Reporting,0.4229547460170197,7,0.36242016617828227,8,0.060534579838737446,1,False
+DEP_reversed,Data Dependency,Sentiment,Sentiment & Reputation,0.10294232258141192,9,0.043602570920166554,9,0.05933975166124537,0,False
+DEP_reversed,Data Dependency,Predictive,Predictive ESG Risk,0.35935950431706937,8,0.39126784710091467,7,-0.0319083427838453,-1,False
+DEP_reversed,Data Dependency,Causal AI,Causal AI Risk,0.4380172694583937,6,0.42902678015682666,6,0.00899048930156704,0,False
+DEP_reversed,Data Dependency,Automated ESG,Automated ESG Scoring,0.602654282219721,4,0.5747045522659696,4,0.027949729953751334,0,False
+DEP_reversed,Data Dependency,Fraud & Greenwashing,Fraud & Greenwashing,0.7791489417904408,1,0.7266588965216585,3,0.052490045268782315,2,True
+DEP_reversed,Data Dependency,XAI,Explainable AI (XAI),0.5037824118856671,5,0.4514078666051979,5,0.0523745452804692,0,False
+DEP_reversed,Data Dependency,Federated Learning,Federated Learning,0.7751813290614685,2,0.8244136298260936,1,-0.04923230076462504,-1,False
+DEP_reversed,Data Dependency,Secure ESG,Secure ESG Integration,0.7318742522786481,3,0.7993382567651096,2,-0.0674640044864615,-1,False
+IMP_DEP_reversed,Data Dependency; Implementation Complexity,NLP,NLP for ESG Reporting,0.45190543576473036,6,0.36242016617828227,8,0.08948526958644809,2,True
+IMP_DEP_reversed,Data Dependency; Implementation Complexity,Sentiment,Sentiment & Reputation,0.14369487004397763,9,0.043602570920166554,9,0.10009229912381107,0,False
+IMP_DEP_reversed,Data Dependency; Implementation Complexity,Predictive,Predictive ESG Risk,0.34120211729236477,8,0.39126784710091467,7,-0.0500657298085499,-1,False
+IMP_DEP_reversed,Data Dependency; Implementation Complexity,Causal AI,Causal AI Risk,0.39816727927352824,7,0.42902678015682666,6,-0.03085950088329842,-1,False
+IMP_DEP_reversed,Data Dependency; Implementation Complexity,Automated ESG,Automated ESG Scoring,0.6225537246985148,4,0.5747045522659696,4,0.04784917243254516,0,False
+IMP_DEP_reversed,Data Dependency; Implementation Complexity,Fraud & Greenwashing,Fraud & Greenwashing,0.7987775559592619,1,0.7266588965216585,3,0.07211865943760343,2,True
+IMP_DEP_reversed,Data Dependency; Implementation Complexity,XAI,Explainable AI (XAI),0.5110910603881434,5,0.4514078666051979,5,0.059683193782945565,0,False
+IMP_DEP_reversed,Data Dependency; Implementation Complexity,Federated Learning,Federated Learning,0.7842308521216871,2,0.8244136298260936,1,-0.04018277770440648,-1,False
+IMP_DEP_reversed,Data Dependency; Implementation Complexity,Secure ESG,Secure ESG Integration,0.7306559042786706,3,0.7993382567651096,2,-0.06868235248643906,-1,False

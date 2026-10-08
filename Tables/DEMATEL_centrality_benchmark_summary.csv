@@ -1,0 +1,10 @@
+Comparison,Role,Spearman_rho,Kendall_tau,Max_abs_rank_shift,N_features_shift_ge_2,Pair_verdict,Note
+WeightedDegree vs EigenvectorCentrality,reference (both simple),1.0,1.0,0.0,0.0,NEARLY_IDENTICAL,
+WeightedDegree vs DEMATEL D+R (baseline),primary,1.0,1.0,0.0,0.0,NEARLY_IDENTICAL,
+EigenvectorCentrality vs DEMATEL D+R (baseline),primary,1.0,1.0,0.0,0.0,NEARLY_IDENTICAL,
+WeightedDegree vs DEMATEL D+R* (stress-amplified),secondary,1.0,1.0,0.0,0.0,NEARLY_IDENTICAL,
+EigenvectorCentrality vs DEMATEL D+R* (stress-amplified),secondary,1.0,1.0,0.0,0.0,NEARLY_IDENTICAL,
+DEMATEL D+R (baseline) vs D+R* (stress-amplified),secondary,1.0,1.0,0.0,0.0,NEARLY_IDENTICAL,
+OVERALL (primary pairs),decision rule,,,,,NEARLY_IDENTICAL,"DEMATEL D+R reproduces the weighted-degree / eigenvector ordering: reduce the novelty claim and describe DEMATEL as a connectedness transformation, not a distinctive causal-analysis contribution (Section 3.4.2, 5.3, 6.1; Table 2 wording). No feature shifts, so there is no shift for indirect paths to explain; see the expert-bootstrap row."
+Graph diagnostics,info,,,,,,"lambda_1(Z0)=50.1332; spectral gap=53.2799; connected components=1; normalization s0=53.3750; thresholds rho>=0.95, tau>=0.85, max shift<=1; flag |shift|>=2"
+Expert bootstrap stability,robustness,1.0,,2.0,,,"2000 resamples of the 8 experts (with replacement): median rho(WD, D+R)=1.000 (5th pct 0.983); median rho(EC, D+R)=1.000; share of resamples with at least one feature shifting >= 2 ranks = 1.6%; max shift observed 2."

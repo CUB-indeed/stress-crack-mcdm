@@ -1,0 +1,13 @@
+step_size,stress_range,is_reference_grid,n_criteria_ranked,ranked_object,spearman_rho_vs_reference,kendall_tau_vs_reference,ESI_min,ESI_max,n_crack_events_total,n_crackfree_transitions_Bstar,most_stable_criterion,least_stable_criterion
+0.05,0.25,False,11,criterion ESI,0.990909090909091,0.9636363636363636,0.3172009294738078,0.8245865457679771,95,0,Integration,Implementation Complexity
+0.05,0.5,False,11,criterion ESI,1.0,1.0,0.3184316178488265,0.8316526229727078,186,0,Integration,Implementation Complexity
+0.05,0.75,False,11,criterion ESI,0.990909090909091,0.9636363636363636,0.3203322595725177,0.8335703321857076,279,0,Integration,Implementation Complexity
+0.05,1.0,False,11,criterion ESI,0.9727272727272729,0.9272727272727274,0.32272573602162913,0.821740228324311,366,0,Integration,Implementation Complexity
+0.1,0.25,False,11,criterion ESI,0.990909090909091,0.9636363636363636,0.31713262227831607,0.8241985132014101,57,0,Integration,Implementation Complexity
+0.1,0.5,False,11,criterion ESI,1.0,1.0,0.3184316178488265,0.8316526229727077,93,0,Integration,Implementation Complexity
+0.1,0.75,False,11,criterion ESI,0.990909090909091,0.9636363636363636,0.32010979504646986,0.8328589694466406,149,0,Integration,Implementation Complexity
+0.1,1.0,False,11,criterion ESI,0.9727272727272729,0.9272727272727274,0.3227257360216291,0.8221578764460227,182,0,Integration,Implementation Complexity
+0.25,0.25,False,11,criterion ESI,0.990909090909091,0.9636363636363636,0.3172009294738078,0.8245865457679771,19,0,Integration,Implementation Complexity
+0.25,0.5,True,11,criterion ESI,1.0,1.0,0.31843161784882656,0.8316526229727077,37,0,Integration,Implementation Complexity
+0.25,0.75,False,11,criterion ESI,0.990909090909091,0.9636363636363636,0.32033225957251776,0.8341367147928482,56,0,Integration,Implementation Complexity
+0.25,1.0,False,11,criterion ESI,0.9727272727272729,0.9272727272727274,0.32272573602162913,0.8221589511091993,74,0,Integration,Implementation Complexity

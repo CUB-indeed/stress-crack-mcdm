@@ -1,0 +1,3 @@
+Group,q_endogenous_from_w_star,q_imposed_75_25,difference_endogenous_minus_imposed
+"O (outcome, |O|=8)",0.8781155215184001,0.75,0.1281155215184001
+"S (resource, |S|=3)",0.12188447848159989,0.25,-0.1281155215184001

@@ -1,0 +1,5 @@
+diagnostic,scenario,reverse_coded,PRIMARY_WEIGHTING,top1_baseline_srpi,top1_scenario_srpi,top1_changed,spearman_rho,spearman_p,kendall_tau,kendall_p,n_common,concordant_pairs,discordant_pairs,tied_pairs
+polarity_srpi_sensitivity,configured_primary,(none),75_25,Federated Learning,Federated Learning,False,1.0,0.0,1.0,5.5114638447971785e-06,9,36,0,0
+polarity_srpi_sensitivity,IMP_reversed,Implementation Complexity,75_25,Federated Learning,Federated Learning,False,0.9333333333333332,0.00023589981215941676,0.8333333333333334,0.0008542768959435626,9,33,3,0
+polarity_srpi_sensitivity,DEP_reversed,Data Dependency,75_25,Federated Learning,Federated Learning,False,0.9666666666666667,2.155031274835775e-05,0.8888888888888888,0.00024250440917107584,9,34,2,0
+polarity_srpi_sensitivity,IMP_DEP_reversed,Data Dependency; Implementation Complexity,75_25,Federated Learning,Federated Learning,False,0.9500000000000001,8.762523965086177e-05,0.8888888888888888,0.00024250440917107584,9,34,2,0
