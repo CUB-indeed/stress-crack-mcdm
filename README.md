@@ -25,9 +25,9 @@ The scripts reproduce every table and figure of the manuscript and the supplemen
 ├── MCDM_FINAL.py
 ├── MCDM_Validation.py
 ├── MCDM_Visualization.py
-├── dfa.xlsx                 expert input, criteria pairwise comparisons (11 x 11)
-├── dft.xlsx                 expert input, feature-criterion ratings (9 x 11)
-├── dfd.xlsx                 expert input, feature interrelations (9 x 9)
+├── dfa.xlsx                 expert input, criteria pairwise comparisons (11 x 11) - available on request
+├── dft.xlsx                 expert input, feature-criterion ratings (9 x 11) - available on request
+├── dfd.xlsx                 expert input, feature interrelations (9 x 9) - available on request
 ├── *.csv                    result tables written by the scripts
 ├── SUPPLEMENTARY_REVIEW_TABLES.xlsx
 └── figures_v3/              figures written by MCDM_Visualization.py
@@ -223,12 +223,12 @@ Figure numbers in the file names follow the script output and can differ from th
 If you use this code, please cite the manuscript.
 
 ```
-[Authors]. Decision support model for identifying critical features of ESG-oriented AI in the financial sector. [Journal], [Year]. [DOI]
+
 ```
 
 ## License
 
-[Add license, for example MIT]
+
 
 ## Contact
 
